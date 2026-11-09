@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+*.log
+
+venv/
+.venv/
+.env/
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+drawings/*
+!drawings/.gitkeep
